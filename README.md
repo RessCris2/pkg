@@ -3,13 +3,15 @@ implement steps to build packages.
 
 在这几个实验中，发现文件的布局非常重要。
 按照官网中 [包发现和命名空间包](https://setuptools.pypa.io/en/latest/userguide/package_discovery.html#finding-namespace-packages)  的描述，选择 src 布局是明智的选择。
-![Alt text](image.png)
+<!-- ![Alt text](image.png) -->
+
+<img src="image.png" alt="Alt text" width="500" height="300" />
 
 mmdetection 用的是 平面布局
 
-![Alt text](image-1.png)
+<!-- ![Alt text](image-1.png#pic_center =600x) -->
 
-
+<img src="image-1.png" alt="Alt text" width="500" height="350" />
 
 ## 打包& 安装
 ```
@@ -31,6 +33,8 @@ pk5 可以正常 import kk5(!不能导入 pk5)
 hello world!
 ```
 需要在 __init__.py 中分别写入
-![](image-2.png)
+<!-- ![](image-2.png) -->
 
-![Alt text](image-3.png)
+<img src="image-2.png" alt="Alt text" width="500" height="200" />
+<img src="image-3.png" alt="Alt text" width="500" height="200" />
+<!-- ![Alt text](image-3.png) -->
