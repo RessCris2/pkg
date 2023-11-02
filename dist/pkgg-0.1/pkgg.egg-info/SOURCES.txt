@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+pkgg.egg-info/PKG-INFO
+pkgg.egg-info/SOURCES.txt
+pkgg.egg-info/dependency_links.txt
+pkgg.egg-info/top_level.txt

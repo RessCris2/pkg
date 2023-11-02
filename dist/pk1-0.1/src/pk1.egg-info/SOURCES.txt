@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/kk/__init__.py
+src/kk/code.py
+src/pk1.egg-info/PKG-INFO
+src/pk1.egg-info/SOURCES.txt
+src/pk1.egg-info/dependency_links.txt
+src/pk1.egg-info/top_level.txt
